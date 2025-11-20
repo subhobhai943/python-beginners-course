@@ -2,6 +2,14 @@
 
 Welcome to the most exciting Python course for beginners! Whether you've never coded before or you're just starting out, this course will take you from zero to hero in Python programming.
 
+---
+
+## 📄 Additional PDF Notes
+You can access companion PDF notes for this course on Google Drive:
+[Python Course PDF Notes (Google Drive)](https://drive.google.com/drive/folders/1mQXhBjcjoF7VS-QjgNTsJEOaAF4tf4xY)
+
+---
+
 ## 🎯 What You'll Learn
 
 This course is designed to be:
